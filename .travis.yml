@@ -86,6 +86,8 @@ matrix:
     - rvm: 2.2.3
       gemfile: Gemfile.rails-3.2
     - rvm: 2.2.3
+      gemfile: Gemfile.rails-5.0
+    - rvm: 2.2.3
       gemfile: Gemfile.mongoid-3.1
     - rvm: 2.2.3
       gemfile: Gemfile.mongoid-3.0
